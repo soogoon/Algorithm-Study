@@ -1,4 +1,4 @@
-# Algorithm-Study
+# Algorithm-Study (스터디 모집 후 이름 정할 예정)
 
 ## 개요
 
