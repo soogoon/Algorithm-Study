@@ -86,7 +86,27 @@
 
 ## 참여자
 
-[soogoon](https://github.com/soogoon) -> [문제풀이](/soogoon/soogoon.md)
+<table>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/soogoon.png?size=100">
+            <br>
+            <a href="https://github.com/soogoon"><I>soogoon</I></a>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href="/soogoon/soogoon.md">문제풀이</a>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 
 ---
 
