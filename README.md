@@ -18,19 +18,13 @@
 
 ## 주차별 주제📕
 
-> | Week | Subject                 | Presenter      |
-> | ------- | ----------------------- | -------------- |
-> | 1       |                         |                |
-> | 2       |                         |                |
-> | 3       |                         |                |
-> | 4       |                         |                |
-
-- 주제 후보
-    - 정렬 (quick sort, merge sort, heap sort ...)
-    - BFS & DFS
-    - Dynamic Programming
-    - Greedy
-    - more...
+> | Week | Subject                    | Presenter      |
+> | ---- | -------------------------- | -------------- |
+> | 1-1  | 정렬(quick sort, heap sort) | [soogoon](https://github.com/soogoon) |
+> | 1-2  | Stack & Queue              | [5anniversary](https://github.com/5anniversary) |
+> | 2    | BFS & DFS                  | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
+> | 3    | 완전 탐색(Exhaustive Search) | [namsoo5](https://github.com/namsoo5) |
+> | 4    | Dynamic Programming        | [seunghee63](https://github.com/seunghee63) |
 
 ## 스터디 방식👨‍💻
 
@@ -62,8 +56,8 @@
 1. 이론 정리
     - 정해진 주차 별 주제에 따라 이론, 개념 정리
         - markdown 형식으로 정리 후 Github에 공유
-    - 오프라인 모임에서는 주차 별로 정해진 사람이 강의를 진행
-        - 강의 진행 하는 사람은 문제도 정해 올 것 (총 문제 5개)
+    - 오프라인 모임에서는 주차 별로 정해진 사람이 이론, 개념 설명
+        - 스터디원 각자 자신이 풀고 싶은 문제 정해 올 것 (각자 2~3개)
 2. 문제 풀이
     - 주차 별 문제 풀이 (1일 1개 권장)
     - 개인적으로 풀고 싶은 문제 풀이 - 주제, 개수 자유
@@ -88,45 +82,62 @@
 
 <table>
     <tr align="center">
+        <td><B>참여자<B></td>
+        <td width="100"><B>풀이<B></td>
+        <td><B>개인 목표<B></td>
+    </tr>
+    <tr align="center">
         <td>
             <img src="https://github.com/soogoon.png?size=100">
             <br>
             <a href="https://github.com/soogoon"><I>soogoon</I></a>
         </td>
+        <td width="100"><a href="/soogoon/soogoon.md">문제풀이</a></td>
+        <td>프로그래머스 레벨 3통과, 문제풀이 30개 이상 풀기</td>
+    </tr>
+    <tr align="center">
         <td>
             <img src="https://github.com/Choyoonyoung98.png?size=100">
             <br>
             <a href="https://github.com/Choyoonyoung98"><I>Choyoonyoung98</I></a>
         </td>
-        <td>
-            <img src="https://github.com/seunghee63.png?size=100">
-            <br>
-            <a href="https://github.com/seunghee63"><I>seunghee63</I></a>
-        </td>
+        <td width="100"><a href="">문제풀이</a></td>
+        <td>프로그래머스 레벨 3통과, DP 문제 5개 이상 풀기</td>
+    </tr>
+    <tr align="center">
         <td>
             <img src="https://github.com/5anniversary.png?size=100">
             <br>
             <a href="https://github.com/5anniversary"><I>5anniversary</I></a>
         </td>
+        <td width="100"><a href="">문제풀이</a></td>
+        <td>swift로 자료구조 정리하기, 알고리즘 문제 푸는 습관 들이기</td>
+    </tr>
+    <tr align="center">
         <td>
             <img src="https://github.com/namsoo5.png?size=100">
             <br>
             <a href="https://github.com/namsoo5"><I>namsoo5</I></a>
         </td>
+        <td width="100"><a href="">문제풀이</a></td>
+        <td>코테에서 반 이상 통과하기</td>
+    </tr>
+    <tr align="center">
         <td>
             <img src="https://github.com/neulneul.png?size=100">
             <br>
             <a href="https://github.com/neulneul"><I>neulneul</I></a>
         </td>
+        <td width="100"><a href="">문제풀이</a></td>
+        <td>하루에 꼭 1개 이상 문제풀기</td>
     </tr>
     <tr align="center">
         <td>
-            <a href="/soogoon/soogoon.md">문제풀이</a>
+            <img src="https://github.com/seunghee63.png?size=100">
+            <br>
+            <a href="https://github.com/seunghee63"><I>seunghee63</I></a>
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td width="100"><a href="">문제풀이</a></td>
         <td></td>
     </tr>
 </table>
