@@ -93,11 +93,31 @@
             <br>
             <a href="https://github.com/soogoon"><I>soogoon</I></a>
         </td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+            <img src="https://github.com/Choyoonyoung98.png?size=100">
+            <br>
+            <a href="https://github.com/Choyoonyoung98"><I>Choyoonyoung98</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/seunghee63.png?size=100">
+            <br>
+            <a href="https://github.com/seunghee63"><I>seunghee63</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/5anniversary.png?size=100">
+            <br>
+            <a href="https://github.com/5anniversary"><I>5anniversary</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/namsoo5.png?size=100">
+            <br>
+            <a href="https://github.com/namsoo5"><I>namsoo5</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/neulneul.png?size=100">
+            <br>
+            <a href="https://github.com/neulneul"><I>neulneul</I></a>
+        </td>
     </tr>
     <tr align="center">
         <td>
@@ -111,7 +131,7 @@
     </tr>
 </table>
 
-
 ---
 
-참고 : [https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
+### 참고 내용
+- 알고리즘 공부법 : [https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
