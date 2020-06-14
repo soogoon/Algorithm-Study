@@ -1,4 +1,4 @@
-# Algorithm-Study (스터디 모집 후 이름 정할 예정)
+# 하루한알💊 Algorithm Study
 
 ## 개요
 
@@ -96,11 +96,15 @@
         <td></td>
         <td></td>
         <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr align="center">
         <td>
             <a href="/soogoon/soogoon.md">문제풀이</a>
         </td>
+        <td></td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
