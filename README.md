@@ -20,7 +20,7 @@
 
 > | Week | Subject                    | Presenter      |
 > | ---- | -------------------------- | -------------- |
-> | 1-1  | 정렬(quick sort, heap sort) | [soogoon](https://github.com/soogoon) |
+> | 1-1  | [정렬(quick sort, ...)](/soogoon/sorting.md) | [soogoon](https://github.com/soogoon) |
 > | 1-2  | Stack & Queue              | [5anniversary](https://github.com/5anniversary) |
 > | 2    | BFS & DFS                  | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
 > | 3    | 완전 탐색(Exhaustive Search) | [namsoo5](https://github.com/namsoo5) |
@@ -138,7 +138,7 @@
             <a href="https://github.com/seunghee63"><I>seunghee63</I></a>
         </td>
         <td width="100"><a href="">문제풀이</a></td>
-        <td></td>
+        <td>프로그래머스 레벨2 문제<br>유형 가리지 않고 풀 수 있는 실력 갖추기</td>
     </tr>
 </table>
 
