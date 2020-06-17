@@ -18,6 +18,8 @@
 
 ## 주차별 주제📕
 
+**First month**
+
 > | Week | Subject                    | Presenter      |
 > | ---- | -------------------------- | -------------- |
 > | 1-1  | [정렬(quick sort, ...)](/soogoon/sorting.md) | [soogoon](https://github.com/soogoon) |
