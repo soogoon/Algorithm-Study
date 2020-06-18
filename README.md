@@ -148,7 +148,7 @@
             <br>
             <a href="https://github.com/namsoo5"><I>namsoo5</I></a>
         </td>
-        <td width="100"><a href="">문제풀이</a></td>
+        <td width="100"><a href="/namsoo5">문제풀이</a></td>
         <td>코테에서 반 이상 통과하기</td>
     </tr>
     <tr align="center">
@@ -170,8 +170,8 @@
         <td>프로그래머스 레벨2 문제<br>유형 가리지 않고 풀 수 있는 실력 갖추기</td>
     </tr>
 </table>
-
 ---
 
 ### 참고 내용
 - 알고리즘 공부법 : [https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
+
