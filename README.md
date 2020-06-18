@@ -148,7 +148,7 @@
             <br>
             <a href="https://github.com/namsoo5"><I>namsoo5</I></a>
         </td>
-        <td width="100"><a href="/namsoo5">문제풀이</a></td>
+        <td width="100"><a href="/namsoo">문제풀이</a></td>
         <td>코테에서 반 이상 통과하기</td>
     </tr>
     <tr align="center">
