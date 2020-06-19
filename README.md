@@ -18,15 +18,42 @@
 
 ## 주차별 주제📕
 
-**First month**
+### First month
 
-> | Week | Subject                    | Presenter      |
-> | ---- | -------------------------- | -------------- |
-> | 1-1  | [정렬(quick sort, ...)](/soogoon/sorting.md) | [soogoon](https://github.com/soogoon) |
-> | 1-2  | [Stack, Queue, Deque](/Junhyeon/Stack_Queue_Deque.md) | [5anniversary](https://github.com/5anniversary) |
-> | 2    | BFS & DFS                  | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
-> | 3    | 완전 탐색(Exhaustive Search) | [namsoo5](https://github.com/namsoo5) |
-> | 4    | Dynamic Programming        | [seunghee63](https://github.com/seunghee63) |
+#### 주제
+
+| Week | Subject                    | Presenter      |
+| ---- | -------------------------- | -------------- |
+| 1-1  | [정렬(quick sort, ...)](/soogoon/sorting.md) | [soogoon](https://github.com/soogoon) |
+| 1-2  | [Stack, Queue, Deque](/Junhyeon/Stack_Queue_Deque.md) | [5anniversary](https://github.com/5anniversary) |
+| 2    | BFS & DFS                  | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
+| 3    | 완전 탐색(Exhaustive Search) | [namsoo5](https://github.com/namsoo5) |
+| 4    | Dynamic Programming        | [seunghee63](https://github.com/seunghee63) |
+
+#### 문제 풀이
+
+<table>
+    <tr><td rowspan="5" align="center">1st week</td><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/5430">AC - 백준 5430번 </a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42747">H-Index - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/1021">회전하는 큐 - 백준 1021번</a></td></tr>
+    <tr><td rowspan="5" align="center">2nd week</td><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td rowspan="5" align="center">3rd week</td><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td rowspan="5" align="center">4th week</td><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+</table>
 
 ## 스터디 방식👨‍💻
 
