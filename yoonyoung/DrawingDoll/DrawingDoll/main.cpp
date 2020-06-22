@@ -9,10 +9,11 @@
 #include <iostream>
 #include <vector>
 #include <stack>
+#define MAX_SIZE 31
 
 using namespace std;
 
-bool visited[6][6];
+bool visited[MAX_SIZE][MAX_SIZE];
 
 int solution(vector<vector<int>> board, vector<int> moves) {
     int answer = 0;
@@ -21,23 +22,19 @@ int solution(vector<vector<int>> board, vector<int> moves) {
     for(int i=0; i<moves.size(); i++) {
         int index = moves[i]-1;
         
-        for(int j=0; j<board[index].size(); j++) {
-            if(board[index][j] !=0 && !visited[index][j]) {
-                cout<<board[index][j]<<endl;
-                visited[index][j] = true;
-                if(!s.empty() && s.top() == board[index][j]){
+        for(int j=0; j<board.size(); j++) {
+            if(board[j][index] !=0 && !visited[j][index]) {
+                visited[j][index] = true;
+                if(!s.empty() && s.top() == board[j][index]){
                     s.pop();
                     answer += 2;
                 }else {
-                    s.push(board[index][j]);
+                    s.push(board[j][index]);
                 }
                 break;
             }
-            
         }
     }
-    
-    
     return answer;
 }
 
