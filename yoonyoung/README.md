@@ -97,6 +97,8 @@ void dfsWithStack(int start, vector<int> graph[], bool check[]){
 루트 노드(혹은 다른 임의의 노드)에서 시작해서 인접한 노드를 먼저 탐색하는 방법.  
 쉽게 풀어 말하자면, 탐색에 있어 ```자식 노드 탐색의 우선순위```보다 ```형제 노드 탐색의 우선순위```가 더 높은 탐색 방법을 뜻한다.  
 
+- 이러한 DFS를 구현하기 위한 방법으로는  ```Queue```가 있다.  
+
 ![](ReadmeResource/bfs.gif)
 ### Queue을 이용한 BFS 풀이
 그림으로 이해해요 -> https://sarah950716.tistory.com/13
@@ -145,7 +147,7 @@ while (!q.empty()) {
 
 ### BFS의 Time Complexity
 - 너비 우선 탐색의 시간복잡도는 깊이 우선 탐색과 다를 것이 없다..!
-- 따라서 인접 리스트로 구현된 경우에는 O(N+E), 인접 행렬로 구현했을 경우 O(N^2)의 시간복잡도를 갖게 된다.
+- 따라서 인접 리스트로 구현된 경우에는 ```O(N+E)```, 인접 행렬로 구현했을 경우 ```O(N^2)```의 시간복잡도를 갖게 된다.
 
 ### BFS, 그래서 어떤 문제 유형에 적용될까?
 - 최소신장트리(Minimum Spanning Trees), 최단경로(Shortest Paths)
@@ -153,4 +155,3 @@ while (!q.empty()) {
 ### 짧은 시간 내에 감잡기 좋은 문제
 - 안전영역: https://www.acmicpc.net/problem/2468
 - 토마토: https://www.acmicpc.net/problem/7569
-
