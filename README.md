@@ -26,7 +26,7 @@
 | ---- | -------------------------- | -------------- |
 | 1-1  | [정렬(quick sort, ...)](/soogoon/sorting.md) | [soogoon](https://github.com/soogoon) |
 | 1-2  | [Stack, Queue, Deque](/Junhyeon/Stack_Queue_Deque.md) | [5anniversary](https://github.com/5anniversary) |
-| 2    | BFS & DFS                  | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
+| 2    | [BFS & DFS](/yoonyoung/README.md) | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
 | 3    | 완전 탐색(Exhaustive Search) | [namsoo5](https://github.com/namsoo5) |
 | 4    | Dynamic Programming        | [seunghee63](https://github.com/seunghee63) |
 
@@ -130,7 +130,7 @@
             <br>
             <a href="https://github.com/Choyoonyoung98"><I>Choyoonyoung98</I></a>
         </td>
-        <td width="100"><a href="">문제풀이</a></td>
+        <td width="100"><a href="/yoonyoung">문제풀이</a></td>
         <td>프로그래머스 레벨 3통과, DP 문제 5개 이상 풀기</td>
     </tr>
     <tr align="center">
