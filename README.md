@@ -130,7 +130,7 @@
             <br>
             <a href="https://github.com/Choyoonyoung98"><I>Choyoonyoung98</I></a>
         </td>
-        <td width="100"><a href="">문제풀이</a></td>
+        <td width="100"><a href="/yoonyoung">문제풀이</a></td>
         <td>프로그래머스 레벨 3통과, DP 문제 5개 이상 풀기</td>
     </tr>
     <tr align="center">
