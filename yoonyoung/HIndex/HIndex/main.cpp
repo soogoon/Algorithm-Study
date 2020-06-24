@@ -6,15 +6,25 @@
 //  Copyright © 2020 조윤영. All rights reserved.
 //
 
-#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+
 using namespace std;
 
-void solution() {
-    
+int solution(vector<int> citations) {
+    sort(citations.begin(), citations.end(), greater<int>());
+    //6 5 3 1 0
+    for (int i = 0; i < citations.size(); i++) {
+        if (citations[i] <= i + 1) {
+            return i;
+        }
+    }
+    return -1;
 }
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    vector<int> citiations = {3,0,6,1,5};
+    solution(citiations);
     return 0;
 }
