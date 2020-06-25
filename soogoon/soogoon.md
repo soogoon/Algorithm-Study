@@ -17,7 +17,7 @@
 | 문제                                                         | 풀이                                              |
 | ------------------------------------------------------------ | ------------------------------------------------- |
 | [타겟 넘버 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43165) | [소스코드](./타겟-넘버.playground/Contents.swift) |
-| [네트워크 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43162) | [소스코드](./네트워크.playgroud/Contents.swift)   |
+| [네트워크 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43162) | [소스코드](./네트워크.playground/Contents.swift)   |
 |                                                              |                                                   |
 |                                                              |                                                   |
 |                                                              |                                                   |
