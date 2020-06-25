@@ -33,16 +33,18 @@
 #### 문제 풀이
 
 <table>
-    <tr><td rowspan="5" align="center">1st week</td><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터 - 프로그래머스</a></td></tr>
+    <tr><td rowspan="5" align="center">1st week</td>
+        <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터 - 프로그래머스</a></td></tr>
     <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임 - 프로그래머스</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/5430">AC - 백준 5430번 </a></td></tr>
     <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42747">H-Index - 프로그래머스</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/1021">회전하는 큐 - 백준 1021번</a></td></tr>
-    <tr><td rowspan="5" align="center">2nd week</td><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
+    <tr><td rowspan="5" align="center">2nd week</td>
+        <td><a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/43162">네트워크 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/2468">안전영역 - 백준 2468번</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/7569">토마토 - 백준 7569번</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/62050">지형이동 - 프로그래머스</a></td></tr>
     <tr><td rowspan="5" align="center">3rd week</td><td></td></tr>
     <tr><td></td></tr>
     <tr><td></td></tr>
