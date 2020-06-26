@@ -123,7 +123,7 @@
             <br>
             <a href="https://github.com/soogoon"><I>soogoon</I></a>
         </td>
-        <td width="100"><a href="/soogoon/soogoon.md">문제풀이</a></td>
+        <td width="100"><a href="/soogoon">문제풀이</a></td>
         <td>프로그래머스 레벨 3통과, 문제풀이 30개 이상 풀기</td>
     </tr>
     <tr align="center">
