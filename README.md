@@ -33,16 +33,18 @@
 #### 문제 풀이
 
 <table>
-    <tr><td rowspan="5" align="center">1st week</td><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터 - 프로그래머스</a></td></tr>
+    <tr><td rowspan="5" align="center">1st week</td>
+        <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42587">프린터 - 프로그래머스</a></td></tr>
     <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/64061">크레인 인형뽑기 게임 - 프로그래머스</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/5430">AC - 백준 5430번 </a></td></tr>
     <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42747">H-Index - 프로그래머스</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/1021">회전하는 큐 - 백준 1021번</a></td></tr>
-    <tr><td rowspan="5" align="center">2nd week</td><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
+    <tr><td rowspan="5" align="center">2nd week</td>
+        <td><a href="https://programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/43162">네트워크 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/2468">안전영역 - 백준 2468번</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/7569">토마토 - 백준 7569번</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/62050">지형이동 - 프로그래머스</a></td></tr>
     <tr><td rowspan="5" align="center">3rd week</td><td></td></tr>
     <tr><td></td></tr>
     <tr><td></td></tr>
@@ -121,7 +123,7 @@
             <br>
             <a href="https://github.com/soogoon"><I>soogoon</I></a>
         </td>
-        <td width="100"><a href="/soogoon/soogoon.md">문제풀이</a></td>
+        <td width="100"><a href="/soogoon">문제풀이</a></td>
         <td>프로그래머스 레벨 3통과, 문제풀이 30개 이상 풀기</td>
     </tr>
     <tr align="center">
@@ -148,7 +150,7 @@
             <br>
             <a href="https://github.com/namsoo5"><I>namsoo5</I></a>
         </td>
-        <td width="100"><a href="">문제풀이</a></td>
+        <td width="100"><a href="/namsoo">문제풀이</a></td>
         <td>코테에서 반 이상 통과하기</td>
     </tr>
     <tr align="center">
@@ -170,8 +172,8 @@
         <td>프로그래머스 레벨2 문제<br>유형 가리지 않고 풀 수 있는 실력 갖추기</td>
     </tr>
 </table>
-
 ---
 
 ### 참고 내용
 - 알고리즘 공부법 : [https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
+
