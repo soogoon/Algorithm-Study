@@ -17,7 +17,7 @@
 |5   |여행 경로 |[풀이](BFS_DFS/TravelRoute/TravelRoute/main.cpp) |
 |6   |지형 이동 |[풀이](BFS_DFS/moveTerrain/moveTerrain/main.cpp) |  
 |7   |단어 변환 |[풀이](BFS_DFS/TransferWord/TransferWord/main.cpp) |  
-|8   |점프 게임(메모리 초과) |[풀이](BFS_DFS/jumpGame/jumpGame/main.cpp) |  
+|8   |점프 게임(메모리 초과) |[풀이](BFS_DFS/JumpGame/JumpGame/main.cpp) |  
 
 
 
