@@ -5,6 +5,8 @@
 //  Created by 조윤영 on 2020/07/15.
 //  Copyright © 2020 조윤영. All rights reserved.
 //
+//next_permutation함수
+//prev_permutation함수
 
 #include <iostream>
 #include <vector>
@@ -19,7 +21,6 @@ struct compare {
     }
 };
 
-
 int N = 0;
 vector<int> numb_list;
 
@@ -29,47 +30,70 @@ void input() {
     for(int i=0; i<N; i++) cin>>numb_list[i];
 }
 
-void solution() {
-    vector<int> answer;
-    int sum = 0;
-    sort(numb_list.begin(), numb_list.end(), compare());
-    //20 15 10 8 4 1
+int calculate(vector<int> &numbs) {
+    int result = 0;
     
-    for(int i=0; i<numb_list.size(); i++) {
-        cout<<numb_list[i]<<" ";
+    for(int i=1; i<numbs.size(); i++ ) {
+        result += abs(numbs[i-1] - numbs[i]);
+    }
+    
+    return result;
+}
+
+int solution() {
+    sort(numb_list.begin(), numb_list.end());
+    
+    int answer = 0;
+    
+    while(next_permutation(numb_list.begin(), numb_list.end())) {
+        int temp = calculate(numb_list);
+        answer = max(answer, temp);
     }
 
-    //-8 3 1 //(2)
-    for(int i=0; i<N/2; i++) {
-        answer.push_back(numb_list[N/2+i]);
-        answer.push_back(numb_list[i]);
-    }
-    
-    if(N%2 != 0) answer.push_back(numb_list[N-1]);
-    
-    cout<<endl;
-    for(int i=0; i<answer.size(); i++) {
-        cout<<answer[i]<<" ";
-    }
-
-    for(int i=0; i<answer.size()-1; i++) {
-        int a = abs(answer[i]-answer[i+1]);
-        sum += a;
-        
-    }
-    cout<<endl;
-    cout<<sum<<"\n";
+    return answer;
 }
 
 int main(int argc, const char * argv[]) {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     input();
-    solution();
+    cout<<solution()<<"\n";
     
     return 0;
 }
 
+//규칙 찾으려다가 망한 솔루션
+//void solution() {
+//    vector<int> answer;
+//    int sum = 0;
+//    sort(numb_list.begin(), numb_list.end(), compare());
+//    //20 15 10 8 4 1
+//
+//    for(int i=0; i<numb_list.size(); i++) {
+//        cout<<numb_list[i]<<" ";
+//    }
+//
+//    //-8 3 1 //(2)
+//    for(int i=0; i<N/2; i++) {
+//        answer.push_back(numb_list[N/2+i]);
+//        answer.push_back(numb_list[i]);
+//    }
+//
+//    if(N%2 != 0) answer.push_back(numb_list[N-1]);
+//
+//    cout<<endl;
+//    for(int i=0; i<answer.size(); i++) {
+//        cout<<answer[i]<<" ";
+//    }
+//
+//    for(int i=0; i<answer.size()-1; i++) {
+//        int a = abs(answer[i]-answer[i+1]);
+//        sum += a;
+//
+//    }
+//    cout<<endl;
+//    cout<<sum<<"\n";
+//}
 
 /*
  6
