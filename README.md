@@ -45,6 +45,11 @@
     <tr><td><a href="https://www.acmicpc.net/problem/2468">안전영역 - 백준 2468번</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/7569">토마토 - 백준 7569번</a></td></tr>
     <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/62050">지형이동 - 프로그래머스</a></td></tr>
+    <tr><td rowspan="4" align="center">Rest week</td>
+        <td><a href="https://programmers.co.kr/learn/courses/30/lessons/43163">단어변환 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/43164">여행경로 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/14226">이모티콘 - 백준 14226번</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/15558">점프게임 - 백준 15558번</a></td></tr>
     <tr><td rowspan="5" align="center">3rd week</td><td></td></tr>
     <tr><td></td></tr>
     <tr><td></td></tr>
