@@ -27,7 +27,7 @@
 | 1-1  | [정렬(quick sort, ...)](/soogoon/sorting.md) | [soogoon](https://github.com/soogoon) |
 | 1-2  | [Stack, Queue, Deque](/Junhyeon/Stack_Queue_Deque.md) | [5anniversary](https://github.com/5anniversary) |
 | 2    | [BFS & DFS](/yoonyoung/README.md) | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
-| 3    | 완전 탐색(Exhaustive Search) | [namsoo5](https://github.com/namsoo5) |
+| 3    | [완전 탐색(Exhaustive Search)](/namsoo/완전탐색.md) | [namsoo5](https://github.com/namsoo5) |
 | 4    | Dynamic Programming        | [seunghee63](https://github.com/seunghee63) |
 
 #### 문제 풀이
@@ -45,6 +45,11 @@
     <tr><td><a href="https://www.acmicpc.net/problem/2468">안전영역 - 백준 2468번</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/7569">토마토 - 백준 7569번</a></td></tr>
     <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/62050">지형이동 - 프로그래머스</a></td></tr>
+    <tr><td rowspan="4" align="center">Rest week</td>
+        <td><a href="https://programmers.co.kr/learn/courses/30/lessons/43163">단어변환 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/43164">여행경로 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/14226">이모티콘 - 백준 14226번</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/15558">점프게임 - 백준 15558번</a></td></tr>
     <tr><td rowspan="5" align="center">3rd week</td><td></td></tr>
     <tr><td></td></tr>
     <tr><td></td></tr>

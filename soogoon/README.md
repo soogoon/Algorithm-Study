@@ -17,15 +17,16 @@
 | 문제                                                         | 풀이                                              |
 | ------------------------------------------------------------ | ------------------------------------------------- |
 | [타겟 넘버 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43165) | [소스코드](./타겟-넘버.playground/Contents.swift) |
-| [네트워크 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43162) | [소스코드](./네트워크.playground/Contents.swift)   |
-|                                                              |                                                   |
-|                                                              |                                                   |
+| [네트워크 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43162) | [소스코드](./네트워크.playground/Contents.swift)  |
+| [안전 영역 - 백준 2468번](https://www.acmicpc.net/problem/2468) | [소스코드](./SafetyArea.swift)                    |
+| [단어 변환 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43163) | [소스코드](./단어변환.playground/Contents.swift)  |
+| [여행경로 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43164) | [소스코드](./여행경로.playground/Contents.swift)  |
 |                                                              |                                                   |
 
 ## 개인 문제 풀이
 
-| 문제                                                         | 풀이                                              |
-| ------------------------------------------------------------ | ------------------------------------------------- |
-| [단어 변환 - 프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43163) | [소스코드](./단어-변환.playground/Contents.swift) |
-|                                                              |                                                   |
+| 문제                                                         | 풀이                            |
+| ------------------------------------------------------------ | ------------------------------- |
+| [차이를 최대로 - 백준 10819번](https://www.acmicpc.net/problem/10819) | [소스코드](./MaximumDiff.swift) |
+| [일곱 난쟁이 - 백준2309번](https://www.acmicpc.net/problem/2309) | [소스코드](./SevenDwarfs.swift) |
 
