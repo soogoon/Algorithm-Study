@@ -28,7 +28,7 @@
 | 1-2  | [Stack, Queue, Deque](/Junhyeon/Stack_Queue_Deque.md) | [5anniversary](https://github.com/5anniversary) |
 | 2    | [BFS & DFS](/yoonyoung/README.md) | [Choyoonyoung98](https://github.com/Choyoonyoung98) |
 | 3    | [완전 탐색(Exhaustive Search)](/namsoo/완전탐색.md) | [namsoo5](https://github.com/namsoo5) |
-| 4    | Dynamic Programming        | [seunghee63](https://github.com/seunghee63) |
+| 4    | [Dynamic Programming](/soogoon/DP.md)        | [soogoon](https://github.com/soogoon) |
 
 #### 문제 풀이
 
