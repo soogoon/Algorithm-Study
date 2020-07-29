@@ -50,16 +50,17 @@
     <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/43164">여행경로 - 프로그래머스</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/14226">이모티콘 - 백준 14226번</a></td></tr>
     <tr><td><a href="https://www.acmicpc.net/problem/15558">점프게임 - 백준 15558번</a></td></tr>
-    <tr><td rowspan="5" align="center">3rd week</td><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td rowspan="5" align="center">4th week</td><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
-    <tr><td></td></tr>
+    <tr><td rowspan="5" align="center">3rd week</td>
+        <td><a href="https://www.acmicpc.net/problem/6603">로또 - 백준 6603번</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42839">소수 찾기 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42842">카펫 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/1107">리모컨 - 백준 1107번</a></td></tr>
+    <tr><td><a href="https://www.acmicpc.net/problem/2003">수들의 합 - 백준 2003번</a></td></tr>
+    <tr><td rowspan="4" align="center">4th week</td>
+        <td><a href="https://programmers.co.kr/learn/courses/30/lessons/42895">N으로 표현 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/43104">타일 장식물 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형 - 프로그래머스</a></td></tr>
+    <tr><td><a href="https://programmers.co.kr/learn/courses/30/lessons/42898">등굣길 - 프로그래머스</a></td></tr>
 </table>
 
 ## 스터디 방식👨‍💻
